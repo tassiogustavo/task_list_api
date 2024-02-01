@@ -1,16 +1,6 @@
-# task_list_api
+# Lista de tarefas com API
 
-A new Flutter project.
+## 📷Video do Projeto
+https://github.com/tassiogustavo/task_list_api/assets/70405308/d8bef010-01b5-47c6-b2c8-5f01bc19ec48
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bem-vindo ao repositório da Lista de tarefas com REST API Springboot! Este projeto é um aplicativo desenvolvido para estudos da persistencia de dados no Flutter. Neste caso criei minha API REST do zero, utilizei o Springboot, banco MySql, fui testando os endpoints no postman, e ficou perfeito no app.
